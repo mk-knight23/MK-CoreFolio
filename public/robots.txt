@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mk-corefolio.vercel.app/sitemap.xml
+Sitemap: https://backend.mkazi.live/sitemap.xml
